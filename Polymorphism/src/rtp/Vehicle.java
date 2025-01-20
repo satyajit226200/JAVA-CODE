@@ -1,0 +1,5 @@
+package rtp;
+
+class Vehicle {
+
+}
